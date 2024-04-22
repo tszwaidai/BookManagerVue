@@ -2,7 +2,7 @@
   "name": "book-manager-vue",
   "version": "4.4.0",
   "description": "图书管理系统前端界面",
-  "author": "哆啦A梦软件",
+  "author": "dzw",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build:prod": "vue-cli-service build",
